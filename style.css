@@ -1,6 +1,6 @@
 html {
   font-size: 10px;
-  background: url("./img/mirza-mustofa-ui4X-QnSO0o-unsplash.jpg") top;
+  background: url("./img/radio.jpg") top;
   background-size: cover;
   margin: 0;
   padding: 0;
@@ -32,7 +32,7 @@ body {
 
 .key {
   border: .2rem solid black;
-  border-radius: .6rem;
+  /* border-radius: .rem; */
   margin: 1rem;
   font-size: 1.5rem;
   padding: 1rem .5rem;
